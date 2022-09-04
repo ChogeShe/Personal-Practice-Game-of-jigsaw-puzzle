@@ -1,0 +1,7 @@
+#菜单制作
+1. 先创建JmenuBar
+2. 再创建jmenu
+3. 再创建JMenultem
+4. 把JMenultem放到jmenu里
+5. 把JMenu放到JMenuBar里
+6. 最后再把JmenuBar添加到整个JFrame界面中
